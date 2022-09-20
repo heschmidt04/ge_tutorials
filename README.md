@@ -4,6 +4,7 @@ This repository contains the material for a number of Great Expectations tutoria
 
 **We invite community contributions for these tutorials!**
 
+|[Great Expectations Tutorial](https://docs.greatexpectations.io/docs/tutorials/getting_started/tutorial_overview)|
 
 ## getting_started_tutorial_final_v3_api [TBD]
 This example contains the final state of the "Getting started with Great Expectations" tutorial for the Great 
